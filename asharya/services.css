@@ -1,0 +1,100 @@
+#centre{
+    padding-top: 60px;
+}
+
+.servi{
+    padding:6%;
+}
+.our-services{
+    text-align: center;
+    color: #000;
+    font-size: 30px;
+}
+.service1{
+    border: 2px solid red;
+    height: 300px;
+    width: 250px;
+    margin: 30px;
+}
+.service1-div{
+    border: 2px solid black;
+    height: 270px;
+    width: 100%;
+    background-image: url(./mother-teresa.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.service1-p-1{
+    text-align: center;
+}
+/* .section-our-services{
+    display: flex;
+} */
+.our-service-services{
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+}
+
+
+.ngo-section-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.introduction{
+    color: green;
+    text-decoration: underline #000;
+    text-align: center;
+    margin-top: 80px;
+    font-weight: 700;
+    font-size: 30px;
+}
+.mother{
+    margin-top: 10px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.814);
+    text-shadow: none;
+    font-weight: 600;
+
+}
+ h4{
+    /* margin-top: 80px; */
+    /* padding-top: 19%; */
+    text-align: center;
+    font-weight: 700;
+    font-size: 2rem;
+ }
+
+
+.mother-teresa-img{
+    padding: 0;
+    margin: 0;
+    /* border: 2px solid red; */
+    /* height: 400px;
+    width: 300px; */
+    background-image: url(download.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* margin-bottom: 20px; */
+    height: 499px;
+    width: 999px;
+}
+.mother-intro{
+    /* border: 2px solid red; */
+    padding-top: 3%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+    color: #000000d8;
+    line-height: 200%;
+    /* padding: 0 250px; */
+}
+
+
+
+
